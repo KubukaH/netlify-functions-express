@@ -26,7 +26,7 @@ class App extends Component {
             <img src={netlifyLogo} className="netlify-logo" alt="logo" />
             <span className='and'>+</span>
             <img src={expressLogo} className="express-logo" alt="logo" />
-
+            
           </div>
           <h1 className="App-title">How to use express.js with Netlify functions</h1>
         </header>
